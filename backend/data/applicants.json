@@ -1,0 +1,98 @@
+[
+  {
+    "id": "c9adaa8c-9611-4482-b999-3d992021b64d",
+    "createdAt": "2026-05-25T16:12:12.470Z",
+    "fullName": "saya",
+    "japaneseName": "hai",
+    "gender": "Wanita",
+    "maritalStatus": "Belum Menikah",
+    "fieldInterest": "PACKING INDUSTRI",
+    "programCategory": "Tokutei Ginou (TG)",
+    "nik": "20211203",
+    "school": "situ",
+    "lpk": "mandiri",
+    "birthPlace": "disana",
+    "birthDate": "2026-05-08",
+    "religion": "Katolik",
+    "phone": "08898987675",
+    "address": "dimana mana",
+    "height": "189",
+    "weight": "80",
+    "bloodType": "",
+    "colorBlind": "",
+    "minusEye": "",
+    "minusValue": "",
+    "smoking": "",
+    "educations": [
+      {
+        "level": "",
+        "school": "",
+        "major": "",
+        "startMonth": "",
+        "startYear": "",
+        "endMonth": "",
+        "endYear": ""
+      }
+    ],
+    "works": [
+      {
+        "company": "",
+        "position": "",
+        "startMonth": "",
+        "startYear": "",
+        "endMonth": "",
+        "endYear": ""
+      },
+      {
+        "company": "",
+        "position": "",
+        "startMonth": "",
+        "startYear": "",
+        "endMonth": "",
+        "endYear": ""
+      }
+    ]
+  },
+  {
+    "id": "5a839e66-2cc6-440f-a2f5-a5b040f4b490",
+    "createdAt": "2026-05-25T16:35:36.023Z",
+    "fullName": "saya",
+    "japaneseName": "hai",
+    "gender": "Wanita",
+    "maritalStatus": "Belum Menikah",
+    "fieldInterest": "PLESTER",
+    "programCategory": "Engineering (Gijinkoku)",
+    "nik": "987654323456789",
+    "school": "situ",
+    "lpk": "mandiri",
+    "birthPlace": "disana",
+    "birthDate": "2026-05-07",
+    "religion": "Kristen",
+    "phone": "08898987675",
+    "address": "dimana mana",
+    "height": "189",
+    "weight": "80",
+    "bloodType": "B",
+    "colorBlind": "Tidak",
+    "minusEye": "Ya",
+    "minusValue": "",
+    "smoking": "",
+    "educations": [
+      {
+        "level": "sma",
+        "school": "adalah",
+        "major": "itu",
+        "start": "",
+        "end": "13445"
+      }
+    ],
+    "works": [
+      {
+        "company": "itu",
+        "position": "itu",
+        "start": "",
+        "end": "2345"
+      }
+    ]
+  }
+]
