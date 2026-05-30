@@ -24,7 +24,7 @@ function ApplicantList() {
   const fetchApplicants = async () => {
     try {
       const response = await axios.get(
-        "http://localhost:5000/api/applicants"
+        "https://system-ujc-backend.intansura1304.workers.dev/api/applicants"
       )
 
       setApplicants(response.data)
@@ -46,7 +46,7 @@ function ApplicantList() {
 
     try {
       await axios.delete(
-        `http://localhost:5000/api/applicants/${id}`
+        `https://system-ujc-backend.intansura1304.workers.dev/api/applicants/${id}`
       )
 
       fetchApplicants()
@@ -77,7 +77,7 @@ function ApplicantList() {
   const saveEdit = async () => {
     try {
       await axios.put(
-        `http://localhost:5000/api/applicants/${editingId}`,
+        `https://system-ujc-backend.intansura1304.workers.dev/api/applicants/${editingId}`,
         editForm
       )
 

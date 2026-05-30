@@ -150,13 +150,13 @@ function NewApplicant() {
 
     try {
       await axios.post(
-        "http://localhost:5000/api/applicants",
-        {
-          ...form,
-          educations,
-          works,
-        }
-      )
+  "https://system-ujc-backend.intansura1304.workers.dev/api/applicants",
+  {
+    ...form,
+    educations,
+    works,
+  }
+)
 
       alert("Pendaftaran berhasil")
 
